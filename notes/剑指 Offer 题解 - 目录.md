@@ -4,12 +4,12 @@
 
 题目来自《何海涛. 剑指 Offer[M]. 电子工业出版社, 2012.》，刷题网站推荐：
 
-- [牛客网](https://www.nowcoder.com/ta/coding-interviews?from=cyc_github)
+- [牛客网](https://www.nowcoder.com/ta/coding-interviews)
 - [Leetcode](https://leetcode-cn.com/problemset/lcof/)
 
 ## 数组与矩阵
 
-- [3. 数组中重复的数字](3.%20数组中重复的数字.md)
+- [X] [3. 数组中重复的数字](3.%20数组中重复的数字.md)
 - [4. 二维数组中的查找](4.%20二维数组中的查找.md)
 - [5. 替换空格](5.%20替换空格.md)
 - [29. 顺时针打印矩阵](29.%20顺时针打印矩阵.md)

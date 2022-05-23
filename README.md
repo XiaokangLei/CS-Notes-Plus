@@ -12,75 +12,67 @@
 
 - **PDF下载：待办**
 
-## :pencil2: 算法
+## 目录
 
-- [剑指 Offer 题解](notes/剑指%20Offer%20题解%20-%20目录.md)
-- [Leetcode 题解](notes/Leetcode%20题解%20-%20目录.md)
-- [基础算法](notes/算法%20-%20目录.md)
-- [字节跳动内推](assets/内推.md)
+### :pencil2: 一、算法
 
-## :computer: 操作系统
+| 剑指Offer题解 | Leetcode题解 | 基础算法 |
+| :-----:| :----: | :----: |
+| [链接](notes/剑指%20Offer%20题解%20-%20目录.md) | [链接](notes/Leetcode%20题解%20-%20目录.md) | [链接](notes/算法%20-%20目录.md) |
 
-- [计算机操作系统](notes/计算机操作系统%20-%20目录.md)
-- [Linux](notes/Linux.md)
+### :computer: 二、操作系统
 
-## :cloud: 网络
+| 计算机操作系统 | Linux |
+| :-----:| :----: |
+| [链接](notes/计算机操作系统%20-%20目录.md) | [链接](notes/Linux.md) |
 
-- [计算机网络](notes/计算机网络%20-%20目录.md)
-- [HTTP](notes/HTTP.md)
-- [Socket](notes/Socket.md)
+### :cloud: 三、网络
 
-## :floppy_disk: 数据库
+| 计算机网络 | HTTP | Socket |
+| :-----:| :----: | :----: |
+| [链接](notes/计算机网络%20-%20目录.md) | [链接](notes/HTTP.md) | [链接](notes/Socket.md) |
 
-- [数据库系统原理](notes/数据库系统原理.md)
-- [SQL 语法](notes/SQL%20语法.md)
-- [SQL 练习](notes/SQL%20练习.md)
-- [MySQL](notes/MySQL.md)
-- [Redis](notes/Redis.md)
+### :floppy_disk: 四、数据库
 
-## :coffee: Java
+| 数据库系统原理 | SQL语法 | SQL练习 | MySQL | Redis |
+| :-----:| :----: | :----: | :----: | :----: |
+| [链接](notes/数据库系统原理.md) | [链接](notes/SQL%20语法.md) | [链接](notes/SQL%20练习.md) | [链接](notes/MySQL.md) | [链接](notes/Redis.md) |
 
-- [Java 基础](notes/Java%20基础.md)
-- [Java 容器](notes/Java%20容器.md)
-- [Java 并发](notes/Java%20并发.md)
-- [Java 虚拟机](notes/Java%20虚拟机.md)
-- [Java I/O](notes/Java%20IO.md)
+### :coffee: 五、Java
 
-## :bulb: 系统设计
+| Java基础 | Java容器 | Java并发 | Java虚拟机 | Java I/O |
+| :-----:| :----: | :----: | :----: | :----: |
+| [链接](notes/Java%20基础.md) | [链接](notes/Java%20容器.md) | [链接](notes/Java%20并发.md) | [链接](notes/Java%20虚拟机.md) | [链接](notes/Java%20IO.md) |
 
-- [系统设计基础](notes/系统设计基础.md)
-- [分布式](notes/分布式.md)
-- [集群](notes/集群.md)
-- [攻击技术](notes/攻击技术.md)
-- [缓存](notes/缓存.md)
-- [消息队列](notes/消息队列.md)
+### :bulb: 六、系统设计
 
-## :art: 面向对象
+| 系统设计基础 | 分布式 | 集群 | 攻击技术 | 缓存 | 消息队列 |
+| :-----:| :----: | :----: | :----: | :----: | :----: |
+| [链接](notes/系统设计基础.md) | [链接](notes/分布式.md) | [链接](notes/集群.md) | [链接](notes/攻击技术.md) | [链接](notes/缓存.md) | [链接](notes/消息队列.md) |
 
-- [面向对象思想](notes/面向对象思想.md)
-- [设计模式](notes/设计模式%20-%20目录.md)
+### :art: 七、面向对象
 
-## :wrench: 工具
+| 面向对象思想 | 设计模式 |
+| :-----:| :----: |
+| [链接](notes/面向对象思想.md) | [链接](notes/设计模式%20-%20目录.md) |
 
-- [Git](notes/Git.md)
-- [Docker](notes/Docker.md)
-- [构建工具](notes/构建工具.md)
-- [正则表达式](notes/正则表达式.md)
+### :wrench: 八、工具
 
-## :watermelon: 编码实践
+| Git | Docker | 构建工具 | 正则表达式 |
+| :-----:| :----: | :----: | :----: |
+| [链接](notes/Git.md) | [链接](notes/Docker.md) | [链接](notes/构建工具.md) | [链接](notes/正则表达式.md) |
 
-- [代码可读性](notes/代码可读性.md)
-- [代码风格规范](notes/代码风格规范.md)
+### :watermelon: 九、编码实践
+
+| 代码可读性 | 代码风格规范 |
+| :-----:| :----: |
+| [链接](notes/代码可读性.md) | [链接](notes/代码风格规范.md) |
 
 ## :memo: 后记
 
-### 排版
+### 其他
 
-笔记内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/main/README.zh-CN.md) 进行排版，以保证内容的可读性。
-
-不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
-
-在线排版工具：[Text-Typesetting](https://github.com/CyC2018/Text-Typesetting)。
+- [字节跳动内推](assets/内推.md)
 
 ### License
 
